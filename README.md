@@ -40,6 +40,9 @@ Random Forest is an ensemble learning method that builds multiple decision trees
 - **SDK**: Python (Installed)
 
 ## System Design
+
+![Alt text](System_Design_Mini_Project.png)
+
 - **Data Set**: Dataset used for the model
 - **Data Visualization**: Used for initial analysis
 - **Preprocessing**: Addressing missing data, oversampling with SMOTE
@@ -64,17 +67,17 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_a
 The model was trained using two different methods.
 
 ### Method 1 (Substitution of Categorial Variables):
-Accuracy: 0.88
-Precision: 0.90
-Recall: 0.83
-AUC: 0.87
+- Accuracy: 0.88
+- Precision: 0.90
+- Recall: 0.83
+- AUC: 0.87
 
 
 ### Method 2 (Dummies of Categorial Variables):
-Accuracy: 0.89
-Precision: 0.91
-Recall: 0.87
-AUC: 0.89
+- Accuracy: 0.89
+- Precision: 0.91
+- Recall: 0.87
+- AUC: 0.89
 
 
 ## Conclusion
