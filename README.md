@@ -91,5 +91,6 @@ Machine Learning techniques, such as Random Forest, were used to analyze the dat
 There are still many techniques to explore, parameters to refine, and features to select. The dataset could be complemented with external information for improvement.
 
 ## Contributions by
-Laxmi Priya Kasi
-Nithisha Akkinepally
+- Laxmi Priya Kasi
+- Nithisha Akkinepally
+
